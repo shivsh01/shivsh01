@@ -1,9 +1,6 @@
 
 <h1>Hey, I'm Shivam Sharma! 👋</h1>
 
-<table>
-<tr>
-<td valign="top" width="62%">
 
 <a href="#"><img src="https://img.shields.io/badge/Full--Stack%20Developer-0A66C2?style=for-the-badge" alt="Full-Stack Developer"/></a>
 
@@ -14,12 +11,8 @@
 🌐 &nbsp;Open to **full-stack / frontend** roles — remote or India<br><br>
 📫 &nbsp;shivamsharma23jan@gmail.com
 
-</td>
-<td valign="center" width="48%">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="coding"/>
-</td>
-</tr>
-</table>
+
 
 <p>
 <a href="https://www.linkedin.com/in/shivam-sharma-859891250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
