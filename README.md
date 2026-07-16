@@ -52,7 +52,7 @@ I turn crypto/fintech infrastructure into product people can actually use — mu
 | Project | What it is | Stack |
 |---|---|---|
 | **[CBS — Multi-Tenant SaaS ERP](https://github.com/shivsh01/CBS-Backend)** | Lead backend (152 commits): database-per-tenant isolation, bitwise RBAC, JWT tenant resolution, SSE attendance, payroll | Node · TS · Express · MongoDB · AWS S3 · JWT |
-| **[AyurConnect — Telemedicine](https://github.com/shivsh01/AyurConnect)** | Solo-built video-consult platform: appointment booking, OTP, Google OAuth, live video | MERN · Daily.co · Nodemailer |
+| **[AyurConnect — Telemedicine](https://ayur-connect.vercel.app)** | Solo-built video-consult platform: appointment booking, OTP, Google OAuth, live video ([code](https://github.com/shivsh01/AyurConnect)) | MERN · Daily.co · Nodemailer |
 | **[Teamboard — Task Manager](https://github.com/shivsh01/Teamboard-KNOW-AI)** | Multi-tenant task manager, npm-workspaces monorepo with shared Zod schemas & workspace RBAC | Next.js · Express · TS · MongoDB · Zod |
 | **[THE_RANKERS](https://the-rankers.vercel.app)** | GitHub-activity leaderboard pulling contribution data via Octokit | React · Express · MongoDB · Octokit |
 | **[StoreEnv](https://store-env-lilac.vercel.app)** | Encrypted environment-variable manager | Next.js · NextAuth · CryptoJS |
