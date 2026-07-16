@@ -76,7 +76,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - **[CBS — Multi-Tenant SaaS ERP](https://github.com/shivsh01/CBS-Backend)** — lead backend (152 commits): database-per-tenant isolation, bitwise RBAC, JWT tenant resolution, SSE attendance & payroll. `Node · TS · Express · MongoDB · AWS S3`
 - **[AyurConnect — Telemedicine](https://ayur-connect.vercel.app)** — solo-built video-consult platform: appointment booking, OTP, Google OAuth, live video via Daily.co. `MERN · Daily.co` ([code](https://github.com/shivsh01/AyurConnect))
